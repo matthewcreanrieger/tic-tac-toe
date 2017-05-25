@@ -1,0 +1,12 @@
+.block { height: 100px;
+         width: 100px;
+         text-align: center;
+         font-size: 40px;
+         font-weight: bold;
+         cursor: pointer; }
+
+.right { border-right: 3px solid black; }
+
+.bottom { border-bottom: 3px solid black; }
+
+.block:hover { background-color: #ffddcc; }
